@@ -1,3 +1,3 @@
 FROM ruby:2.3
 
-gem install rails
+RUN gem install rails
